@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  By day, I lead API development and developer experience initiatives as Head of DX at <a href="https://harbourshare.com" target="_blank">Harbour</a>. My focus is on building reliable infrastructures and tools that enhance developer productivity.
+  By day, I lead API development and developer experience initiatives as Head of DX at <a href="https://superdoc.dev" target="_blank">SuperDoc</a>. My focus is on building reliable infrastructures and tools that enhance developer productivity.
 </p>
 
 <p>
