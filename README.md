@@ -8,7 +8,7 @@ My GitHub is full of half-finished experiments and a few things that actually wo
 
 **What I'm exploring**
 
-**[cnpj.chat](https://cnpj.chat)** / **[fipe.chat](https://fipe.chat)** - Query Brazilian market data with plain English. No API docs, no auth tokens. Proof of concept for AI agents accessing real-world data without integration nightmares.
+**[cnpj.chat](https://github.com/caiopizzol/cnpj-data-pipeline)** / **[fipe.chat](https://github.com/caiopizzol/fipe-data-pipeline)** - Query Brazilian market data with plain English. No API docs, no auth tokens. Proof of concept for AI agents accessing real-world data without integration nightmares.
 
 **[Polvo](https://github.com/usepolvo)** - Open-source toolkit for API integrations. Handles rate limits, retries, pagination—all the annoying stuff developers deal with.
 
