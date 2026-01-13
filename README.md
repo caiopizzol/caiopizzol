@@ -17,6 +17,3 @@ My GitHub is full of half-finished experiments and a few things that actually wo
 **[DocWorks](https://github.com/caiopizzol/docworks)** - CLI that sends AI agents to test your docs and report what's broken.
 
 If you're building in the AI agent space or thinking about developer tools, reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiopizzol)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/caiopizzol)
