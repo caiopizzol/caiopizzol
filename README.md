@@ -10,8 +10,6 @@ My GitHub is full of half-finished experiments and a few things that actually wo
 
 **[cnpj.chat](https://github.com/caiopizzol/cnpj-data-pipeline)** / **[fipe.chat](https://github.com/caiopizzol/fipe-data-pipeline)** - Query Brazilian market data with plain English. No API docs, no auth tokens. Proof of concept for AI agents accessing real-world data without integration nightmares.
 
-**[Polvo](https://github.com/usepolvo)** - Open-source toolkit for API integrations. Handles rate limits, retries, pagination—all the annoying stuff developers deal with.
-
 **[Sniff](https://github.com/caiopizzol/sniff)** - Framework for deploying AI agents that respond to workspace events. YAML config, ships to Linear/GitHub/Slack.
 
 **[DocWorks](https://github.com/caiopizzol/docworks)** - CLI that sends AI agents to test your docs and report what's broken.
