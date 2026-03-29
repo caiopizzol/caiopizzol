@@ -1,9 +1,10 @@
-Hi there 👋
+Building tools for developers and AI agents.
 
-I'm Caio, Head of DX at [SuperDoc](https://superdoc.dev) - designing APIs and building tools developers actually want to use.
+Head of DX at [SuperDoc](https://superdoc.dev) — an open-source document engine for native .docx rendering, editing, and automation. 20 years shipping code, from embedded C at Volvo to document engines for AI agents.
 
-I've been writing code for 20 years. Currently obsessed with the integration layer AI agents will need to be useful in the real world.
+**What I'm exploring:**
 
-My GitHub is full of half-finished experiments and a few things that actually work.
-
-If you're building in the AI agent space or thinking about developer tools, reach out.
+- [cnpj.chat](https://cnpj.chat) / [fipe.chat](https://fipe.chat) — query 50M+ Brazilian records with plain language
+- [Conclave](https://github.com/caiopizzol/conclave) — multi-model AI collaboration for Claude Code
+- [prq](https://github.com/caiopizzol/prq) — CLI for prioritizing code reviews
+- [brand.md](https://thebrand.md) — open standard for brand identity files
