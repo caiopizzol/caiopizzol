@@ -5,6 +5,7 @@ Head of DX at [SuperDoc](https://superdoc.dev) — an open-source document engin
 **What I'm exploring:**
 
 - [cnpj.chat](https://cnpj.chat) / [fipe.chat](https://fipe.chat) - query 50M+ Brazilian records with plain language
+- [pickled](https://github.com/caiopizzol/pickled) - Test what agents actually understand from your project
 - [moor](https://moor.sh) - Self-hosted Docker management - like Coolify, but simpler
 - [Conclave](https://github.com/caiopizzol/conclave) — multi-model AI collaboration for Claude Code
 - [prq](https://github.com/caiopizzol/prq) — CLI for prioritizing code reviews
