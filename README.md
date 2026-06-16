@@ -4,11 +4,11 @@ Head of DX at [SuperDoc](https://superdoc.dev) - an open-source document engine 
 
 **Pinned projects:**
 
-- [cnpj-data-pipeline](https://github.com/caiopizzol/cnpj-data-pipeline) - 265 stars, 71 forks - Brazilian company registration data pipeline
-- [fipe-data-pipeline](https://github.com/caiopizzol/fipe-data-pipeline) - 43 stars, 6 forks - Brazilian vehicle pricing data pipeline
-- [chit](https://github.com/caiopizzol/chit) - 2 stars - a thin runtime for multi-agent workflows
-- [pickled](https://github.com/caiopizzol/pickled) - 2 stars - test what agents actually understand
-- [brand.md](https://github.com/caiopizzol/brand.md) - 14 stars, 2 forks - open standard for brand identity files
+- [cnpj-data-pipeline](https://github.com/caiopizzol/cnpj-data-pipeline) - Brazilian company registration data pipeline
+- [fipe-data-pipeline](https://github.com/caiopizzol/fipe-data-pipeline) - Brazilian vehicle pricing data pipeline
+- [chit](https://github.com/caiopizzol/chit) - A thin runtime for multi-agent workflows
+- [pickled](https://github.com/caiopizzol/pickled) - Test what agents actually understand
+- [brand.md](https://github.com/caiopizzol/brand.md) - Open standard for brand identity files
 
 **What I'm exploring:**
 
