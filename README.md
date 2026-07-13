@@ -6,7 +6,6 @@ Head of DX at [SuperDoc](https://superdoc.dev) - an open-source document engine 
 
 - [cnpj-data-pipeline](https://github.com/caiopizzol/cnpj-data-pipeline) - Brazilian company registration data pipeline
 - [fipe-data-pipeline](https://github.com/caiopizzol/fipe-data-pipeline) - Brazilian vehicle pricing data pipeline
-- [chit](https://github.com/caiopizzol/chit) - A thin runtime for multi-agent workflows
 - [pickled](https://github.com/caiopizzol/pickled) - Test what agents actually understand
 - [brand.md](https://github.com/caiopizzol/brand.md) - Open standard for brand identity files
 
