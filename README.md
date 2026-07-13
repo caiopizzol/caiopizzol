@@ -1,6 +1,6 @@
 Building tools for developers and AI agents.
 
-Head of DX at [SuperDoc](https://superdoc.dev) - an open-source document engine for native .docx rendering, editing, and automation. 20 years shipping code, from embedded C at Volvo to document engines for AI agents.
+Head of DX at [SuperDoc](https://superdoc.dev) - an open-source document engine for native .docx rendering, editing, and automation. 20 years shipping code, from embedded C to document engines for AI agents.
 
 **Pinned projects:**
 
