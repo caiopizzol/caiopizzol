@@ -7,7 +7,7 @@ Head of DX at [SuperDoc](https://superdoc.dev) - an open-source document engine 
 - [skills](https://github.com/caiopizzol/skills) - Reusable agent skills for file inspection and developer experience
 - [cnpj-data-pipeline](https://github.com/caiopizzol/cnpj-data-pipeline) - Brazilian company registration data pipeline
 - [fipe-data-pipeline](https://github.com/caiopizzol/fipe-data-pipeline) - Brazilian vehicle pricing data pipeline
-- [pickled](https://github.com/caiopizzol/pickled) - Test what agents actually understand
+- [keypin](https://github.com/caiopizzol/keypin) - Open-source key syncs and rotation for the vault you already use
 - [brand.md](https://github.com/caiopizzol/brand.md) - Open standard for brand identity files
 
 **What I'm exploring:**
